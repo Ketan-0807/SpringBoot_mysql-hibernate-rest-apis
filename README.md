@@ -11,7 +11,7 @@ Eclipse Oxygen
 Steps to install
 1. Clone the application
 
-git clone https://github.com/scbushan05/spring-boot-hibernate-mysql-rest-api.git
+git@github.com:Ketan-0807/SpringBoot_mysql-hibernate-rest-apis.git
 2. Create MySQL database
 
 CREATE DATABASE crudapi
